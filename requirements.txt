@@ -1,0 +1,9 @@
+python-telegram-bot[job-queue]==21.4
+jdatetime
+tzdata
+Pillow
+imageio
+imageio-ffmpeg
+arabic-reshaper
+python-bidi
+av
